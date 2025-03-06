@@ -1,0 +1,8 @@
+Flask
+openai
+pytesseract
+sympy
+speechrecognition
+pyttsx3
+gunicorn
+pillow
